@@ -1,8 +1,9 @@
 package.json
 package-lock.json
 node_modules/
+try.js
+first.js
+users.json
+.gitignore
 *
-!try.js
-!first.js
-!users.json
-!.gitignore
+
